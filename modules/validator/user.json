@@ -1,0 +1,13 @@
+{
+    "name": {
+        "type": "text",
+        "min" : 3,
+        "max" : 50
+    },
+    "email": {
+        "type": "email",
+        "min" : 6,
+        "max" : 50,
+        "isLowerCase":true
+    }
+}
